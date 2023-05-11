@@ -1,0 +1,18 @@
+@import '../Styles/Variables';
+@import '../Styles/Constant';
+
+
+.app__dashboard {
+    width: 70%;
+    position: absolute;
+    bottom: -115%;
+    left: 0;
+    right: 0;
+    margin: auto;
+  
+    img {
+      width: 100%;
+      border-radius: 40px;
+      box-shadow: $shadow;
+    }
+  }
